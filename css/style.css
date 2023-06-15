@@ -392,10 +392,12 @@ a.nav-link.sec-li-small2 {
     padding: 100px 0px 0px 0px;
 
 }
-.btn-ss{
+
+.btn-ss {
     text-align: center;
-    padding: 50px 0px 50px 0px ;
+    padding: 50px 0px 50px 0px;
 }
+
 .sec-btn-btn {
     background: #E74546;
     font-family: 'Montserrat';
@@ -408,51 +410,70 @@ a.nav-link.sec-li-small2 {
     padding: 15px 30px;
 
 }
-.sec-good-h h5{
+
+.sec-good-h h5 {
     font-family: 'Montserrat';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 161.5%;
-text-align: center;
-color: #000000;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 161.5%;
+    text-align: center;
+    color: #000000;
 
 }
-.sec-apl-mainh{
+
+.sec-apl-mainh {
     font-family: 'Montserrat';
-font-style: normal;
-font-weight: 700;
-font-size: 35px;
-line-height: 96px;
-text-align: center;
-text-transform: capitalize;
-color: #000000;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 96px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000000;
 }
-.sec-apply-f-h{
+
+.sec-apply-f-h {
     font-family: 'Montserrat';
-font-style: normal;
-font-weight: 700;
-font-size: 50px;
-line-height: 96px;
-text-align: center;
-text-transform: capitalize;
-color: #000000;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 96px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #000000;
 }
+
 label {
     font-family: 'Poppins';
-font-style: normal;
-font-weight: 600;
-font-size: 20px;
-line-height: 49px;
-color: #000000;
-padding-top: 15px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 49px;
+    color: #000000;
+    padding-top: 15px;
 }
 
-input , select.form-control {
+input,
+select.form-control {
     border-radius: 0px !important;
     background: #EBEBEB !important;
 }
-.sec-form-ww form{
+
+.sec-form-ww form {
     width: 80% !important;
     margin: auto;
+}
+
+button.btn.btn-primary {
+    background: #E74546;
+    border-radius: 0;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+padding: 20px 40px;
+    color: #FFFFFF;
+border: none;
 }
