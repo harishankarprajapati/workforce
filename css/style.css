@@ -48,7 +48,7 @@ a.nav-link.sec-li-small2 {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
-    padding: 60px 10px 60px 10px;
+    padding: 100px 10px 60px 10px;
 }
 
 .sec-img-appp {
@@ -417,4 +417,24 @@ line-height: 161.5%;
 text-align: center;
 color: #000000;
 
+}
+.sec-apl-mainh{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 96px;
+text-align: center;
+text-transform: capitalize;
+color: #000000;
+}
+.sec-apply-f-h{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 96px;
+text-align: center;
+text-transform: capitalize;
+color: #000000;
 }
