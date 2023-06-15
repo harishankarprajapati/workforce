@@ -48,7 +48,7 @@ a.nav-link.sec-li-small2 {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: top;
-    padding: 120px 10px 60px 10px;
+    padding: 60px 10px 60px 10px;
 }
 
 .sec-img-appp {
@@ -406,5 +406,15 @@ a.nav-link.sec-li-small2 {
     color: #FFFFFF;
     text-decoration: none;
     padding: 15px 30px;
+
+}
+.sec-good-h h5{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 161.5%;
+text-align: center;
+color: #000000;
 
 }
