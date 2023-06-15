@@ -94,12 +94,12 @@
 <div class="container pt-5">
     <h4 class="sec-apply-f-h"> Application Form</h4>
     <!-- form -->
-    <div class="container">
+    <div class="container sec-form-ww">
         <form>
           <div class="row">
+            <label for="first">Name</label>
             <div class="col-md-6">
               <div class="form-group">
-                <label for="first">Name</label>
                 <input type="text" class="form-control" placeholder="First Name*" id="first">
               </div>
             </div>
@@ -107,7 +107,6 @@
       
             <div class="col-md-6">
               <div class="form-group">
-                <label for="last"></label>
                 <input type="text" class="form-control" placeholder="Last Name*" id="last">
               </div>
             </div>
@@ -229,15 +228,20 @@
         </div>
 
         <div class="row">
+            <label for="company">Please Specify</label>
             <div class="col-md-8">
-                <label for="company">Please Specify</label>
                 <input type="text" class="form-control" placeholder="" id="company">
             </div>
             <div class="col-md-4">
-                <label for="company"></label>
                 <input type="file" class="form-control" placeholder="" id="company">
             </div>
         </div>
+        <div class="row">
+            <div class="col-md-4">
+                <label for="company">Resume (Upload)</label>
+                <input type="file" class="form-control" placeholder="" id="company">
+            </div>
+            </div>
           <button type="submit" class="btn btn-primary">Submit</button>
         </form>
       </div>

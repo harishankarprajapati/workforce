@@ -438,3 +438,21 @@ text-align: center;
 text-transform: capitalize;
 color: #000000;
 }
+label {
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 49px;
+color: #000000;
+padding-top: 15px;
+}
+
+input , select.form-control {
+    border-radius: 0px !important;
+    background: #EBEBEB !important;
+}
+.sec-form-ww form{
+    width: 80% !important;
+    margin: auto;
+}
