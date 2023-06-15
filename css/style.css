@@ -318,123 +318,93 @@ a.nav-link.sec-li-small2 {
     line-height: 77px;
     color: #000000;
 }
-.sec-ppp-wwwh p{
+
+.sec-ppp-wwwh p {
     font-family: 'Montserrat';
-font-style: normal;
-font-weight: 400;
-font-size: 22px;
-line-height: 100%;
-color: #000000;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 100%;
+    color: #000000;
 
 }
 
-
-
-
-
-
-
-
-
-
-
-
-@import url(https://fonts.googleapis.com/css?family=Merriweather);
-
-*,
-*::before,
-*::after {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+.sec-bob-bg {
+    background-image: url(../images/box-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 40px;
+    margin-left: 80px;
 }
 
-html {
-    font-family: Merriweather, Georgia, serif;
-    font-size: 62.5%;
+.sec-bob-bg2 {
+    background-image: url(../images/box-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 40px;
+    margin-left: 80px;
 }
 
-.hexagon {
-    position: relative;
-    display: inline-block;
-    /* left/right margin approx. 25% of .hexagon width + spacing */
-    margin: 1px 18px;
-    background-color: hsl(220, 75%, 75%);
+.sec-bob-bg3 {
+    background-image: url(../images/box-3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 40px;
+    margin-left: 80px;
+}
+
+.sec-bob-bg4 {
+    background-image: url(../images/box-4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 40px;
+    margin-left: 80px;
+}
+
+.sec-bhh-colo {
+    background: #F4F4F4;
+    padding: 40px;
+    margin-left: -127px;
+    margin-right: 280px;
+}
+
+.sec-bhh-colo h3 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 77px;
+    color: #000000;
+
+}
+
+.sec-bhh-colo p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%;
+    color: #000000;
+
+}
+
+.sec-box-all-padi {
+    padding: 100px 0px 0px 0px;
+
+}
+.btn-ss{
     text-align: center;
+    padding: 50px 0px 50px 0px ;
 }
+.sec-btn-btn {
+    background: #E74546;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding: 15px 30px;
 
-.hexagon,
-.hexagon::before,
-.hexagon::after {
-    /* easy way: height is width * 1.732
-  actual formula is 2*(width/(2*Math.tan(Math.PI/6)))
-  remove border-radius for sharp corners on hexagons */
-    width: 67px;
-    height: 116px;
-    border-radius: 20%/5%;
-}
-
-.hexagon::before {
-    background-color: inherit;
-    content: "";
-    position: absolute;
-    left: 0;
-    transform: rotate(-60deg);
-}
-
-.hexagon::after {
-    background-color: inherit;
-    content: "";
-    position: absolute;
-    left: 0;
-    transform: rotate(60deg);
-}
-
-.hexagon:nth-child(even) {
-    /* top approx. 50% of .hexagon height + spacing */
-    top: 59px;
-}
-
-.hexagon:hover {
-    background-color: hsla(60, 75%, 75%, 1.0);
-    cursor: pointer;
-    z-index: 105;
-}
-
-.hexagon:active {
-    background-color: hsla(60, 75%, 50%, 1.0);
-    z-index: 110;
-}
-
-.hexanone {
-    position: relative;
-    display: inline-block;
-    width: 67px;
-    height: 116px;
-    margin: 1px 18px;
-}
-
-.hexanone:nth-child(even) {
-    top: 59px;
-}
-
-.hexagontent {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: 140%;
-    font-size: 1.4rem;
-    line-height: 1.2;
-    z-index: 100;
-}
-
-.ibws-fix {
-    /* inline-block whitespace fix */
-    font-size: 0;
-}
-
-.honeycomb {
-    margin: 0 auto;
-    text-align: center;
 }
