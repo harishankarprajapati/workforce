@@ -1,0 +1,430 @@
+#navbarSupportedContent {
+    display: flex !important;
+
+}
+
+a.nav-link.sec-li-small2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    padding-left: 50px !important;
+    color: #2E2E2E !important;
+
+}
+
+.sec-cont-btttn {
+    background: #E74546;
+    padding: 15px 30px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.sec-all-main-header {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 75px;
+    line-height: 90px;
+    color: #2E2E2E;
+}
+
+.sec-all-main-header2 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 75px;
+    line-height: 90px;
+    color: #2E2E2E;
+}
+
+.sec-bgg-aaa {
+    background-image: url(../images/two-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    padding: 120px 10px 60px 10px;
+}
+
+.sec-img-appp {
+    margin-top: -220px;
+}
+
+.sec-img-appp2 {
+    margin-top: -174px;
+}
+
+.sec-text-aaa {
+    position: relative;
+    z-index: 10;
+}
+
+.sec-dotee-hh {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 135.5%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    padding: 20px 108px;
+}
+
+.sec-about-ppp {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 180%;
+    color: #000000;
+}
+
+.sec-all-main-header33 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 68px;
+    text-align: center;
+
+    color: #000000;
+
+}
+
+.sec-padd-all {
+    padding: 60px 10px 0px 10px;
+}
+
+.sec-footer-bg {
+    background-image: url(../images/footer-bg2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 30px;
+}
+
+.sec-footer-pp {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 54px;
+    text-transform: capitalize;
+    color: #FEFEFE;
+    margin: 0px;
+}
+
+.sec-footer-icon {
+    color: #E74546;
+    font-size: 30px;
+}
+
+.sec-for-call {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: capitalize;
+    color: #FEFEFE;
+    padding-top: 20px;
+
+}
+
+.sec-a-cal-pp {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    text-align: center;
+    color: #FEFEFE;
+    text-decoration: none;
+    margin: 0px;
+    word-break: break-all;
+}
+
+.sec-footer-bg-2 {
+    background-color: #F1F1F1;
+    padding: 40px 10px;
+}
+
+.sec-address-pp {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.sec-all-addresss {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+    color: #000000;
+    text-decoration: none;
+}
+
+.sec-cont-hhh {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 20px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.sec-allll-icon {
+    color: #E74546;
+    font-size: 25px;
+}
+
+.sec-footer-bgg-4 {
+    background: #E74546;
+    padding: 20px 10px;
+}
+
+.sec-copy-p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+    color: #FFFFFF;
+    margin: 0px;
+    text-align: center;
+}
+
+.sec-aboytt-pp {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    text-align: center;
+    color: #000000;
+}
+
+.sec-img-right {
+    text-align: right;
+}
+
+.sec-img-right img {
+    width: 15%;
+}
+
+.sec-ab-h {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 101px;
+    color: #2E2E2E;
+}
+
+.sec-abou-ppd {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 172%;
+    color: #000000;
+}
+
+.sec-all-foote-ma {
+    margin-bottom: -88px;
+    z-index: 10;
+    position: relative;
+}
+
+.sec-ser-fle {
+    margin-top: -71px;
+}
+
+.sec-lin-ap {
+    background-color: #E74546;
+    padding: 23px 40px;
+    border-radius: 90px 0px 0px 0px;
+    color: #fff;
+    font-size: 25px;
+}
+
+.sec-link-ppp {
+    text-align: right;
+    padding: 0;
+
+}
+
+.sec-ser-hh-cw {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 62px;
+    color: #FFFFFF;
+}
+
+.sec-good-h p {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 49px;
+    text-align: center;
+    color: #000000;
+
+}
+
+.secc-flect {
+    display: flex;
+    justify-content: space-between;
+}
+
+.arrow {
+    padding-top: 120px;
+}
+
+.sec-all-padin {
+    padding: 60px 0px;
+}
+
+.sec-ind-h {
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 101px;
+    text-align: center;
+    color: #2E2E2E;
+
+}
+
+.sec-we-hh {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 77px;
+    color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: Merriweather, Georgia, serif;
+    font-size: 62.5%;
+}
+
+.hexagon {
+    position: relative;
+    display: inline-block;
+    /* left/right margin approx. 25% of .hexagon width + spacing */
+    margin: 1px 18px;
+    background-color: hsl(220, 75%, 75%);
+    text-align: center;
+}
+
+.hexagon,
+.hexagon::before,
+.hexagon::after {
+    /* easy way: height is width * 1.732
+  actual formula is 2*(width/(2*Math.tan(Math.PI/6)))
+  remove border-radius for sharp corners on hexagons */
+    width: 67px;
+    height: 116px;
+    border-radius: 20%/5%;
+}
+
+.hexagon::before {
+    background-color: inherit;
+    content: "";
+    position: absolute;
+    left: 0;
+    transform: rotate(-60deg);
+}
+
+.hexagon::after {
+    background-color: inherit;
+    content: "";
+    position: absolute;
+    left: 0;
+    transform: rotate(60deg);
+}
+
+.hexagon:nth-child(even) {
+    /* top approx. 50% of .hexagon height + spacing */
+    top: 59px;
+}
+
+.hexagon:hover {
+    background-color: hsla(60, 75%, 75%, 1.0);
+    cursor: pointer;
+    z-index: 105;
+}
+
+.hexagon:active {
+    background-color: hsla(60, 75%, 50%, 1.0);
+    z-index: 110;
+}
+
+.hexanone {
+    position: relative;
+    display: inline-block;
+    width: 67px;
+    height: 116px;
+    margin: 1px 18px;
+}
+
+.hexanone:nth-child(even) {
+    top: 59px;
+}
+
+.hexagontent {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 140%;
+    font-size: 1.4rem;
+    line-height: 1.2;
+    z-index: 100;
+}
+
+.ibws-fix {
+    /* inline-block whitespace fix */
+    font-size: 0;
+}
+
+.honeycomb {
+    margin: 0 auto;
+    text-align: center;
+}
