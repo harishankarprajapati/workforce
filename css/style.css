@@ -455,7 +455,7 @@ label {
 }
 
 input,
-select.form-control {
+select.form-control , textarea.form-control.mb-3 {
     border-radius: 0px !important;
     background: #EBEBEB !important;
 }
