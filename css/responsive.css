@@ -84,8 +84,8 @@ nav.navbar.navbar-expand-md.navbar-dark.mb-4 {
     line-height: 32px;
 }
 .sec-footer-pp {
-    font-size: 21px;
-    line-height: 42px;
+    font-size: 18px;
+    line-height: 29px;
 }
 a.nav-link.sec-li-small2 {
     font-size: 18px;
@@ -107,6 +107,9 @@ a.nav-link.sec-li-small2 {
 }
 input {
     margin-top: 5px !important;
+}
+.sec-ser-fle {
+    margin-top: -153px !important;
 }
 .sec-all-foote-ma {
     margin-bottom: 0px;
@@ -208,6 +211,11 @@ button.btn.btn-primary {
     width: 90% !important;
     margin: auto;
 }
-
+.sec-footer-bg {
+    padding: 20px 10px;
+}
+.sec-foot-ppp{
+    padding-top: 20px;
+}
 }
 

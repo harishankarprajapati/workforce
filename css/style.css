@@ -151,7 +151,7 @@ a.nav-link.sec-li-small2 {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
-    font-size: 20px;
+    font-size:16px;
     line-height: 160%;
     text-align: center;
     color: #FEFEFE;
@@ -257,15 +257,15 @@ a.nav-link.sec-li-small2 {
 }
 
 .sec-ser-fle {
-    margin-top: -71px;
+    margin-top: -114px;
 }
 
 .sec-lin-ap {
-    background-color: #E74546;
-    padding: 23px 40px;
-    border-radius: 90px 0px 0px 0px;
+    padding: 42px 65px;
+    background-image: url(../images/red.png);
+    background-repeat: no-repeat;
     color: #fff;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .sec-link-ppp {
