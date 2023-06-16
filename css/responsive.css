@@ -234,6 +234,10 @@ button.btn.btn-primary {
 .sec-btn-btn {
     font-size: 21px !important;
 }
+div#navbarCollapse {
+    background: #efeeee;
+    padding: 0px 2px 20px 2px;
+}
 }
 
 
