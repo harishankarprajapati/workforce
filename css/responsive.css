@@ -93,7 +93,7 @@ a.nav-link.sec-li-small2 {
     padding-left: 10px !important;
 }
 .sec-aboytt-pp {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .sec-ab-h {
@@ -108,6 +108,19 @@ a.nav-link.sec-li-small2 {
     z-index: 10;
     position: relative;
 }
-
+.sec-ser-hh-cw {
+    font-size: 25px;
+    line-height: 31px;
+}
+.col-lg-6.aos-init.aos-animate {
+    padding-top: 20px;
+}
+.sec-hande-w{
+    width: 100%;
+    padding: 10px !important;
+}
+.container.p-5.sec-all-foote-ma.sec-over-flow.aos-init.aos-animate {
+    padding: 10px !important;
+}
 }
 
