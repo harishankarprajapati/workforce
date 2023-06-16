@@ -265,7 +265,7 @@ button.btn.btn-primary {
     }
     .sec-all-main-header33 {
         font-size: 35px;
-        line-height: 60px;
+        line-height: 60px !important; 
     }
     img.sec-footer-logo {
         width: 100%;
