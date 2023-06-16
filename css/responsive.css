@@ -187,11 +187,11 @@ label {
     line-height: 29px;
 }
 button.accordion-button {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 163%;
 }
 .accordion-body p {
-    font-size: 16px;
+    font-size: 15px;
 }
 
 }
