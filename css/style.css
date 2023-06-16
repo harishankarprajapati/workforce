@@ -2,7 +2,15 @@
     display: flex !important;
 
 }
+.navbar-toggler {
+    text-decoration: none;
+    background: #000;
+}
 
+
+.sec-mobile{
+    display: none !important;
+}
 a.nav-link.sec-li-small2 {
     font-family: 'Poppins';
     font-style: normal;
