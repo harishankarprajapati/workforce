@@ -105,6 +105,9 @@ a.nav-link.sec-li-small2 {
 .sec-abou-ppd {
     font-size: 18px;
 }
+input {
+    margin-top: 0px !important;
+}
 .sec-all-foote-ma {
     margin-bottom: 0px;
     z-index: 10;
