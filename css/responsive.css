@@ -119,7 +119,7 @@ input {
     margin-top: 5px !important;
 }
 .sec-ser-fle {
-    margin-top: -153px !important;
+    margin-top: -83px !important;
 }
 .sec-all-foote-ma {
     margin-bottom: 0px;
@@ -127,7 +127,7 @@ input {
     position: relative;
 }
 .sec-ser-hh-cw {
-    font-size: 25px;
+    font-size: 25px !important;
     line-height: 31px;
 }
 .col-lg-6.aos-init.aos-animate {
@@ -226,6 +226,9 @@ button.btn.btn-primary {
 }
 .sec-foot-ppp{
     padding-top: 20px;
+}
+.sec-lin-ap {
+    padding: 27px 43px !important;
 }
 }
 
