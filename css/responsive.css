@@ -94,8 +94,9 @@ nav.navbar.navbar-expand-md.navbar-dark.mb-4 {
     line-height: 35px !important;
 }
 .sec-footer-pp {
-    font-size: 18px;
-    line-height: 29px;
+    font-size: 18px !important;
+    line-height: 29px !important;
+    text-align: center !important;
 }
 a.nav-link.sec-li-small2 {
     font-size: 18px;
@@ -229,6 +230,9 @@ button.btn.btn-primary {
 }
 .sec-lin-ap {
     padding: 27px 43px !important;
+}
+.sec-btn-btn {
+    font-size: 21px !important;
 }
 }
 
