@@ -122,5 +122,44 @@ a.nav-link.sec-li-small2 {
 .container.p-5.sec-all-foote-ma.sec-over-flow.aos-init.aos-animate {
     padding: 10px !important;
 }
+.secc-flect {
+    display:block;
+}
+.arrow , .arrow2{
+    display:none;
+}
+.sec-all-padin {
+    padding: 10px 0px;
+}
+.sec-ind-h {
+    font-size: 44px;
+    line-height: 54px;
+}
+.sec-rowww-p{
+    padding:0px !important;
+}
+.sec-we-hh {
+    font-size: 30px;
+    line-height: 38px;
+    padding-bottom: 20px;
+}
+.sec-abouttt-img{
+    width: 100%;
+}
+.sec-bob-bg , .sec-bob-bg2 , .sec-bob-bg3 , .sec-bob-bg4 {
+    padding: 20px 10px;
+    margin-left: 0px;
+}
+.sec-bhh-colo {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.sec-box-all-padi {
+    padding: 30px 0px 0px 0px;
+}
+.sec-bhh-colo h3 {
+    font-size: 30px;
+    line-height: 60px;
+}
 }
 
