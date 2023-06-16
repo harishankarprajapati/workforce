@@ -12,6 +12,8 @@
 
 }
 
+
+
 /* -------767--------- */
 
 @media only screen and (max-width: 767px) {
@@ -219,3 +221,75 @@ button.btn.btn-primary {
 }
 }
 
+
+/* -------999--------- */
+
+@media only screen and (max-width: 1024px) {
+
+    .sec-cont-btttn {
+        font-size: 20px  !important;
+        line-height: 31px;
+        padding: 10px 20px;
+    }
+    a.nav-link.sec-li-small2 {
+        font-size: 18px !important;
+        padding: 0px !important;
+    padding-left: 24px !important;
+    }
+    img.sec-logo-33 {
+        width: 100%;
+    }
+    .sec-all-main-header {
+        font-size: 45px;
+        line-height: 67px;
+    }
+    .sec-dotee-hh {
+        padding: 20px 29px;
+    }
+    .sec-all-main-header2 {
+        font-size: 45px;
+    }
+    img.w-80 {
+        width: 100%;
+    }
+    .sec-about-ppp {
+        font-size: 19px;
+    }
+    .sec-all-main-header33 {
+        font-size: 35px;
+        line-height: 60px;
+    }
+    img.sec-footer-logo {
+        width: 100%;
+    }
+    .sec-footer-pp {
+        font-size: 25px;
+        line-height: 45px;
+    }
+    .sec-lin-ap {
+        padding: 42px 43px;
+    }
+    .sec-ser-hh-cw {
+        font-size: 30px;
+    }
+   .sec-hande-w , img.sec-abouttt-img {
+        width: 100%;
+    }
+    .secc-flect {
+        display: flex;
+        justify-content: space-evenly;
+        flex-wrap: wrap;
+    }
+    .sec-bhh-colo {
+        background: #F4F4F4;
+        padding: 40px;
+        margin-left: -98px;
+        margin-right: 109px;
+    }
+    .sec-bhh-colo h3 {
+        font-size: 25px;
+        line-height: 34px;
+    }
+    
+    
+}
