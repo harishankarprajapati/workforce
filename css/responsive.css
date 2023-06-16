@@ -164,5 +164,35 @@ a.nav-link.sec-li-small2 {
 .sec-dfexss{
     display: block !important;
 }
+.sec-apl-mainh {
+    font-size: 28px;
+    line-height: 40px;
+}
+.sec-apply-f-h {
+    font-size: 35px;
+    line-height: 44px;
+    padding-top: 30px;
+}
+input {
+    margin-top: 20px;
+}
+.sec-form-ww{
+    padding: 0px !important;
+}
+.container.pt-5.sec-over-flow.aos-init.aos-animate {
+    padding: 0px !important;
+}
+label {
+    font-size: 16px;
+    line-height: 29px;
+}
+button.accordion-button {
+    font-size: 18px;
+    line-height: 163%;
+}
+.accordion-body p {
+    font-size: 16px;
+}
+
 }
 
