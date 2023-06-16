@@ -101,6 +101,7 @@ nav.navbar.navbar-expand-md.navbar-dark.mb-4 {
 a.nav-link.sec-li-small2 {
     font-size: 18px;
     line-height: 16px;
+    border-bottom: 1px solid #e3e3e3;
     padding-left: 4px !important;
     padding-top: 25px !important;
 }
@@ -254,6 +255,7 @@ div#navbarCollapse {
         font-size: 18px !important;
         padding: 0px;
     padding-left: 0px !important;
+    border-bottom: 1px solid #e3e3e3;
     }
     img.sec-logo-33 {
         width: 100%;
