@@ -44,13 +44,24 @@
     width: 100%;
 }
 .sec-img-appp2 img , .sec-img-appp img {
-    width: 100%;
+    width: 85%;
 }
 
 .sec-dotee-hh {
-    font-size: 30px;
+    font-size: 29px;
     line-height: 130.5%;
-    padding: 52px 0px;
+    padding: 24px 0px;
+}
+.sec-img-appp {
+    margin-top: -133px;
+}
+.sec-img-appp2 {
+    margin-top: -138px;
+}
+.sec-text-aaa {
+    position: relative;
+    z-index: 10;
+    padding-top: 50px;
 }
 .col-lg-3.aos-init.aos-animate img , .col-lg-3.aos-init{
     width: 50%;
@@ -59,7 +70,7 @@ nav.navbar.navbar-expand-md.navbar-dark.mb-4 {
     margin: 0 !important;
 }
 .sec-bgg-aaa {
-    padding: 80px 10px 40px 10px;
+    padding: 0px 10px 40px 10px;
 }
 .sec-about-ppp {
     font-size: 18px;
