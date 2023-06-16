@@ -54,7 +54,10 @@
     line-height: 130.5%;
     padding: 24px 0px;
 }
-.sec-img-appp {
+.sec-img-appp3 , .sec-img-appp , .sec-img-appp2 {
+    padding-top: 20px;
+}
+/* .sec-img-appp {
     margin-top: -133px;
 }
 .sec-img-appp2 {
@@ -62,7 +65,7 @@
 }
 .sec-img-appp3 {
     margin-top: -108px;
-}
+} */
 .sec-img-appp3 img{
     width: 100%;
 }
