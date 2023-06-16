@@ -63,7 +63,6 @@
 .sec-text-aaa {
     position: relative;
     z-index: 10;
-    padding-top: 50px;
 }
 .col-lg-3.aos-init.aos-animate img , .col-lg-3.aos-init{
     width: 50%;
@@ -224,7 +223,7 @@ button.btn.btn-primary {
 
 /* -------999--------- */
 
-@media only screen and (max-width: 1024px) {
+@media only screen and (max-width: 1025px) {
 
     .sec-cont-btttn {
         font-size: 20px  !important;
@@ -233,7 +232,7 @@ button.btn.btn-primary {
     }
     a.nav-link.sec-li-small2 {
         font-size: 18px !important;
-        padding: 0px !important;
+        padding: 0px;
     padding-left: 24px !important;
     }
     img.sec-logo-33 {
@@ -244,7 +243,7 @@ button.btn.btn-primary {
         line-height: 67px;
     }
     .sec-dotee-hh {
-        padding: 20px 29px;
+        padding: 20px 29px  !important;
     }
     .sec-all-main-header2 {
         font-size: 45px;
