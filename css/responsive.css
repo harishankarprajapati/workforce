@@ -92,5 +92,22 @@ a.nav-link.sec-li-small2 {
     line-height: 16px;
     padding-left: 10px !important;
 }
+.sec-aboytt-pp {
+    font-size: 20px;
+}
+
+.sec-ab-h {
+    font-size: 35px;
+    line-height: 60px;
+}
+.sec-abou-ppd {
+    font-size: 18px;
+}
+.sec-all-foote-ma {
+    margin-bottom: 0px;
+    z-index: 10;
+    position: relative;
+}
+
 }
 
