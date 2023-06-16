@@ -478,4 +478,20 @@ padding: 20px 40px;
 border: none;
 }
 
-/*  */
+button.accordion-button {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 175%;
+    color: #000000;
+}
+.accordion-body p {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 175%;
+    color: #000000;
+    
+}
