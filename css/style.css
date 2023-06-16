@@ -60,7 +60,7 @@ a.nav-link.sec-li-small2 {
     background-image: url(../images/two-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: top;
+    background-position: center;
     padding: 100px 10px 60px 10px;
     margin-top: -20px;
 }
