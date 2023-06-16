@@ -21,7 +21,9 @@ a.nav-link.sec-li-small2 {
     color: #2E2E2E !important;
 
 }
-
+.sec-over-flow{
+    overflow: hidden;
+}
 .sec-cont-btttn {
     background: #E74546;
     padding: 15px 30px;
