@@ -161,5 +161,8 @@ a.nav-link.sec-li-small2 {
     font-size: 30px;
     line-height: 60px;
 }
+.sec-dfexss{
+    display: block !important;
+}
 }
 
