@@ -94,6 +94,7 @@ a.nav-link.sec-li-small2 {
 }
 .sec-aboytt-pp {
     font-size: 18px;
+    margin: 0px;
 }
 
 .sec-ab-h {
@@ -185,6 +186,7 @@ input {
 label {
     font-size: 16px;
     line-height: 29px;
+    padding: 5px;
 }
 button.accordion-button {
     font-size: 16px;
@@ -197,6 +199,10 @@ button.btn.btn-primary {
     font-size: 20px;
     line-height: 30px;
     padding: 7px 30px;
+}
+.sec-form-ww form {
+    width: 90% !important;
+    margin: auto;
 }
 
 }
