@@ -60,6 +60,12 @@
 .sec-img-appp2 {
     margin-top: -108px;
 }
+.sec-img-appp3 {
+    margin-top: -108px;
+}
+.sec-img-appp3 img{
+    width: 100%;
+}
 .sec-text-aaa {
     position: relative;
     z-index: 10;
