@@ -102,7 +102,7 @@ a.nav-link.sec-li-small2 {
     font-size: 18px;
     line-height: 16px;
     padding-left: 4px !important;
-    padding-top: 15px !important;
+    padding-top: 25px !important;
 }
 .sec-aboytt-pp {
     font-size: 18px;
@@ -253,7 +253,7 @@ div#navbarCollapse {
     a.nav-link.sec-li-small2 {
         font-size: 18px !important;
         padding: 0px;
-    padding-left: 24px !important;
+    padding-left: 0px !important;
     }
     img.sec-logo-33 {
         width: 100%;
