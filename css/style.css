@@ -6,6 +6,9 @@
     text-decoration: none;
     background: #000;
 }
+a.nav-link.sec-li-small2:hover {
+    color: red !important;
+}
 
 div#navbarCollapse {
     background:none !important;
