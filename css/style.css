@@ -56,7 +56,9 @@ a.nav-link.sec-li-small2:hover {
     bottom: 0;
     margin: auto;
 }
-
+input {
+    height: 47px !important;
+}
 
 .services-page a.nav-link.sec-li-small2.sec-services-pp {
     color: red !important;
