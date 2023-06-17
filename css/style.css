@@ -27,6 +27,9 @@ a.nav-link.sec-li-small2 {
     color: #2E2E2E !important;
 
 }
+.sec-abb-imggg{
+    margin-top: -129px;
+}
 .sec-over-flow{
     overflow: hidden;
 }
@@ -241,6 +244,7 @@ a.nav-link.sec-li-small2 {
 
 .sec-img-right {
     text-align: right;
+    position: relative;
 }
 
 .sec-img-right img {
