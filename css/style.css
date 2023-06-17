@@ -2,33 +2,83 @@
     display: flex !important;
 
 }
+
 .navbar-toggler {
     text-decoration: none;
     background: #000;
 }
+
 a.nav-link.sec-li-small2:hover {
     color: red !important;
 }
+
 .about-page a.nav-link.sec-li-small2.sec-aboot-pp {
     color: red !important;
+
 }
-.services-page a.nav-link.sec-li-small2.sec-services-pp{
+
+.about-page a.nav-link.sec-li-small2.sec-aboot-pp::before{
+    content: "";
+    width: 77px;
+    height: 3px;
+    text-align: center;
+    background-color: red;
+    position: absolute;
+    top: 33px;
+    left: 0px;
+    right: 154px;
+    bottom: 0;
+    margin: auto;
+}
+.services-page a.nav-link.sec-li-small2.sec-services-pp::before{
+    content: "";
+    width: 124px;
+    height: 3px;
+    text-align: center;
+    background-color: red;
+    position: absolute;
+    top: 33px;
+    left: 177px;
+    right: 0px;
+    bottom: 0;
+    margin: auto;
+}
+.apply-now a.nav-link.sec-li-small2.sec-apply-pp::before {
+    content: "";
+    width: 102px;
+    height: 3px;
+    text-align: center;
+    background-color: red;
+    position: absolute;
+    top: 33px;
+    left: 526px;
+    right: 0px;
+    bottom: 0;
+    margin: auto;
+}
+
+
+.services-page a.nav-link.sec-li-small2.sec-services-pp {
     color: red !important;
 }
-.apply-now a.nav-link.sec-li-small2.sec-apply-pp{
+
+.apply-now a.nav-link.sec-li-small2.sec-apply-pp {
     color: red !important;
 }
-.contact-page a.nav-link.sec-li-small2.sec-contact-pp{
+
+.contact-page a.nav-link.sec-li-small2.sec-contact-pp {
     color: red !important;
 }
 
 div#navbarCollapse {
-    background:none !important;
+    background: none !important;
     padding: 0px;
 }
-.sec-mobile{
+
+.sec-mobile {
     display: none !important;
 }
+
 a.nav-link.sec-li-small2 {
     font-family: 'Poppins';
     font-style: normal;
@@ -39,12 +89,15 @@ a.nav-link.sec-li-small2 {
     color: #2E2E2E !important;
 
 }
-.sec-abb-imggg{
+
+.sec-abb-imggg {
     margin-top: -129px;
 }
-.sec-over-flow{
+
+.sec-over-flow {
     overflow: hidden;
 }
+
 .sec-cont-btttn {
     background: #E74546;
     padding: 15px 30px;
@@ -82,12 +135,15 @@ a.nav-link.sec-li-small2 {
     padding: 100px 10px 60px 10px;
     margin-top: -20px;
 }
-.ser-two-ll{
+
+.ser-two-ll {
     text-decoration: none;
 }
+
 .sec-good-h img {
     padding-top: 20px;
 }
+
 /* .sec-img-appp {
     margin-top: -220px;
 }
@@ -181,7 +237,7 @@ a.nav-link.sec-li-small2 {
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 400;
-    font-size:16px;
+    font-size: 16px;
     line-height: 160%;
     text-align: center;
     color: #FEFEFE;
@@ -496,7 +552,8 @@ label {
 }
 
 input,
-select.form-control , textarea.form-control.mb-3 {
+select.form-control,
+textarea.form-control.mb-3 {
     border-radius: 0px !important;
     background: #EBEBEB !important;
 }
@@ -514,9 +571,9 @@ button.btn.btn-primary {
     font-weight: 600;
     font-size: 25px;
     line-height: 30px;
-padding: 20px 40px;
+    padding: 20px 40px;
     color: #FFFFFF;
-border: none;
+    border: none;
 }
 
 button.accordion-button {
@@ -527,6 +584,7 @@ button.accordion-button {
     line-height: 175%;
     color: #000000;
 }
+
 .accordion-body p {
     font-family: 'Montserrat';
     font-style: normal;
@@ -534,5 +592,5 @@ button.accordion-button {
     font-size: 20px;
     line-height: 175%;
     color: #000000;
-    
+
 }
