@@ -56,7 +56,7 @@ a.nav-link.sec-li-small2:hover {
     bottom: 0;
     margin: auto;
 }
-input {
+input , select.form-control{
     height: 47px !important;
 }
 
