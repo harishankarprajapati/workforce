@@ -9,6 +9,18 @@
 a.nav-link.sec-li-small2:hover {
     color: red !important;
 }
+.about-page a.nav-link.sec-li-small2.sec-aboot-pp {
+    color: red !important;
+}
+.services-page a.nav-link.sec-li-small2.sec-services-pp{
+    color: red !important;
+}
+.apply-now a.nav-link.sec-li-small2.sec-apply-pp{
+    color: red !important;
+}
+.contact-page a.nav-link.sec-li-small2.sec-contact-pp{
+    color: red !important;
+}
 
 div#navbarCollapse {
     background:none !important;
