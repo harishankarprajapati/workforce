@@ -121,6 +121,9 @@ a.nav-link.sec-li-small2 {
 .sec-abou-ppd {
     font-size: 18px;
 }
+.sec-ppp-wwwh p {
+    font-size: 18px;
+}
 input {
     margin-top: 5px !important;
 }
@@ -163,8 +166,8 @@ input {
     padding:0px !important;
 }
 .sec-we-hh {
-    font-size: 30px;
-    line-height: 38px;
+    font-size: 20px;
+    line-height: 30px;
     padding-bottom: 20px;
 }
 .sec-abouttt-img{
