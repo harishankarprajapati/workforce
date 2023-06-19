@@ -250,6 +250,9 @@ div#navbarCollapse {
     background-repeat: no-repeat;
     background-size: cover;
  }
+ .sec-cote-mob{
+    display: none;
+ }
 }
 
 
