@@ -41,7 +41,7 @@
     }
 
     a.navbar-brand {
-        width: 73%;
+        width: 73% !important;
     }
 
     br {
@@ -131,12 +131,15 @@
     }
 
     a.nav-link.sec-li-small2 {
-        font-size: 18px;
+        font-size: 18px !important;
         line-height: 16px;
         border-bottom: 1px solid #e3e3e3;
         padding-left: 4px !important;
         padding-top: 25px !important;
         padding-bottom: 25px;
+    }
+    a.navbar-brand {
+        width: 40%;
     }
 
     .sec-aboytt-pp {
@@ -330,21 +333,22 @@
 }
 
 
-/* -------999--------- */
+
+/* -------1025--------- */
 
 @media only screen and (max-width: 1025px) {
 
     .sec-cont-btttn {
-        font-size: 20px !important;
+        font-size: 15px !important;
         line-height: 31px;
-        padding: 10px 20px;
+        padding: 9px 15px;
     }
-
+   
     a.nav-link.sec-li-small2 {
-        font-size: 18px !important;
+        font-size: 12px;
         padding: 0px;
         padding-bottom: 25px;
-        padding-left: 0px !important;
+        padding-left: 13px !important;
         border-bottom: 1px solid #e3e3e3;
     }
 
@@ -418,5 +422,9 @@
         line-height: 34px;
     }
 
-
+    .about-page a.nav-link.sec-li-small2.sec-aboot-pp::before,
+    .services-page a.nav-link.sec-li-small2.sec-services-pp::before,
+    .apply-now a.nav-link.sec-li-small2.sec-apply-pp::before {
+        display: none;
+    }
 }
