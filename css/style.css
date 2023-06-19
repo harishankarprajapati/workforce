@@ -596,3 +596,14 @@ button.accordion-button {
     color: #000000;
 
 }
+.sec-res-mm{
+    margin-bottom: -100px;
+    margin-top: -30px;
+}
+.sec-lump-m{
+   background-image: url(../images/footer-bg.png);
+   padding: 50px 0px;
+   height: 200px;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
