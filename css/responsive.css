@@ -243,6 +243,13 @@ div#navbarCollapse {
     background: #efeeee;
     padding: 0px 2px 20px 2px;
 }
+.sec-lump-m{
+    background-image: url(../images/footer-bg.png);
+    padding: 30px 0px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
 }
 
 
